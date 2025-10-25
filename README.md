@@ -1,2 +1,4 @@
 # ProjectPortfolio
-Alden Lee Project Portfolio
+Welcome to my website
+I am Alden Lee 
+Project Portfolio
