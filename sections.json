@@ -1,0 +1,10 @@
+{
+  "finance":   "https://www.wsj.com/finance",
+  "tech":      "https://www.wsj.com/tech",
+  "markets":   "https://www.wsj.com/finance/markets",
+  "economy":   "https://www.wsj.com/economy",
+  "politics":  "https://www.wsj.com/politics",
+  "business":  "https://www.wsj.com/business",
+  "us-news":   "https://www.wsj.com/us-news",
+  "world":     "https://www.wsj.com/world"
+}
